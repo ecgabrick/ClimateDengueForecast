@@ -1,9 +1,7 @@
 # ClimateDengueForecast
-This repository contain the codes and data used to generate the results present in the paper "When climate variables improve the dengue forecasting: a machine learning approach" by da Silva et al. 
-The paper can be found in: https://arxiv.org/pdf/2404.05266.pdf
+This repository contains the codes and data used to generate the results presented in the paper "When climate variables improve the dengue forecasting: a machine learning approach" by da Silva et al. 
+The paper can be found at: https://arxiv.org/pdf/2404.05266.pdf
 
-This repository contain the main_code.ipynb which is related to the ML code. 
+This repository contains the main_code.ipynb which is related to the ML code. The file data.zip contains the dataset related to each city as well as the Gnuplot Script used to generated the figures.
 
-Each files named by the city contain the real and simulate dataset as well as the Gnuplot script to generate the figures.
-
-Any question should be address to: ecgabrick@gmail.com
+Any questions should be addressed to: ecgabrick@gmail.com
